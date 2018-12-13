@@ -1,0 +1,1 @@
+delete columns in Big.csv that not in Samll.csv
